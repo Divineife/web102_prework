@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-[Visit Google](https://www.google.com/)
+[Visit Google]('https://www.google.com/')
 
-<img src='http://imgur.com/a/vj0fUMh' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='https://www.google.com/' title='Video Walkthrough' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
