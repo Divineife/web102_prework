@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough]("https://imgur.com/vj0fUMh")
+[Visit Google](https://www.google.com/)
 
 <img src='http://imgur.com/a/vj0fUMh' title='Video Walkthrough' alt='Video Walkthrough' />
 
